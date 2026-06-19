@@ -16,3 +16,6 @@ Consist of a Digispark Attiny USB that listens to the bus and sends the proper p
 
 ## Current Project state
 The project has entered development limbo sinse its too loud to be a Bed side table. I will share what has been accomplished so people can maybe at least benefit from this work.
+The mechanical parts need some work.
+ - The cube holders being 3d printed don't slide well on their axes. In reality I used only 2 of the 4 axes pins.
+ - The cube holder pinhole part is weak and breaks, however this should be due to the first problem.
